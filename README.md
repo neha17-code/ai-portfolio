@@ -1,55 +1,34 @@
-# AI Portfolio – Resume Chat Assistant
+# AI Portfolio with Resume Chat 🤖
 
-👋 Hi, I’m **Neha**, a Web Development Intern Applicant.
+An AI-powered portfolio project that allows users to ask questions about my resume and get instant responses.
 
-This project is an **AI-powered portfolio** that allows users to chat with my resume using a **React frontend** and **FastAPI backend**.
+## 👩‍💻 About Me
+**Name:** Neha  
+**Role:** Web Development Intern Applicant  
 
----
-
-## 🔹 Features
-- Resume-based chat assistant
-- React + TypeScript frontend
-- FastAPI backend API
-- CORS-enabled backend
-- Clean and simple UI
-
----
-
-## 🔹 Tech Stack
-**Frontend**
-- React
-- TypeScript
+## 🛠 Skills
 - HTML
 - CSS
-
-**Backend**
-- Python
-- FastAPI
-- Uvicorn
-
----
-
-## 🔹 Skills
-- HTML, CSS, JavaScript
+- JavaScript
 - React
 - Python
 - FastAPI
 
----
-
-## 🔹 Projects
-- Portfolio Website
+## 📌 Projects
+- Portfolio Website (React)
 - Backend API using FastAPI
-- AI Resume Chat Assistant (this project)
+- AI Resume Chat Assistant
 
----
+## 🚀 Features
+- Ask questions about my resume
+- Real-time AI responses
+- React frontend + FastAPI backend
+- CORS-enabled API
 
-## 🔹 Career Goal
-To become a **Full-Stack Developer**.
+## 🧠 Career Goal
+To become a full-stack developer.
 
----
-
-## 🚀 How to Run the Project
+## ▶ How to Run the Project
 
 ### Backend
 ```bash
